@@ -2,7 +2,7 @@ This is Majec's Web-based Ordering System.
 
 DEVELOPERS:
   Trani, Issah Mae
-  Batistil, Joshua
+  Batestil, Joshua
   Pulga, Marygin 
 
 How to run the system:
